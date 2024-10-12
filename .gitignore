@@ -12,6 +12,8 @@
 *.obj
 *.bin
 *.exe
+*.vscode/
+*.cph/
 
 # Precompiled Headers
 *.gch
